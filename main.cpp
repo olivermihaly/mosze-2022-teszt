@@ -22,5 +22,6 @@ int main()
     }
     atlag = atlag / N_ELEMENTS;//atlag szamitas
     std::cout << "Atlag: " << atlag << std::endl;
+    std::cout << "Please advise!" << std::endl;
     return 0;
 }
